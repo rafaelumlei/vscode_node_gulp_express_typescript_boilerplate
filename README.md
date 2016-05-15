@@ -7,7 +7,7 @@ Sample project with vscode, typescript, node, gulp, express and docker.
 * VS Code with debug configurarions for TypeScript already in place
 * Intellisense for TypeScript with Typings
 * Gulp already integrated with VS Code (with tasks for js and js.map generation)  
-* A simple express.js web.server to start testing
+* A simple express.js web server to start testing
 * Docker integration 
 
 ## What was used in this sample project:
