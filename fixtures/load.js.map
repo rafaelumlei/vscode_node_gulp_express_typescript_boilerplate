@@ -1,0 +1,1 @@
+{"version":3,"sources":["fixtures/load.ts"],"names":[],"mappings":";AAAA,IAAI,QAAQ,GAAG,OAAO,CAAC,sBAAsB,CAAC,CAAC,OAAO,CAAC,MAAM,CAAC,CAAC;AAE/D,qBAAmB,QAAQ,CAAC,CAAA;AAE5B,kBAAyB,EAAO;IAC5B,QAAQ,CAAC,YAAY,CAAC;QAClB,IAAI,EAAE,WAAI;KACb,EAAE,EAAE,CAAC,CAAC;AACX,CAAC;AAJe,gBAAQ,WAIvB,CAAA","file":"fixtures/load.js","sourceRoot":"../"}

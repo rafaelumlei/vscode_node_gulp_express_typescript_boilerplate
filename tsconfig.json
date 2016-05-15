@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "commonjs",
+		"sourceMap": true
+	},
+	"exclude": [
+		"node_modules",
+		"typings",
+		"bower_components",
+		"jspm_packages",
+		"tmp",
+		"temp"
+	]
+}
