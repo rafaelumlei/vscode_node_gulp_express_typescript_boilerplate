@@ -2,7 +2,7 @@
 
 Sample project with vscode, typescript, node, gulp, express and docker.
 
-## What does this project has to offer
+## What does this project offer
 
 * VS Code with debug configurarions for TypeScript already in place
 * Intellisense for TypeScript with Typings
